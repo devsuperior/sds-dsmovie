@@ -22,7 +22,7 @@
 - [Guia de instalação das ferramentas no Mac](https://github.com/devsuperior/sds6/tree/main/_instalacao/mac)
 
 ## Discord do evento para dúvidas e networking
-- [Discord da Semana Spring React](https://discord.gg/________)
+- [Discord da Semana Spring React](https://discord.gg/WQWeA86KuK)
 
 
 ## Conteúdos de preparação
