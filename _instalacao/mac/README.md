@@ -6,12 +6,12 @@
 
 ## Ferramentas que você deverá instalar no seu computador:
 
-- JDK 11
+- JDK 11 ou 17
 - STS
 - Postman
 - Postgresql e pgAdmin
 - Heroku CLI
-- NPM
+- NodeJS 16.x (https://nodejs.org/en/download/)
 - VS Code
 - Git
 
@@ -28,11 +28,17 @@ $ brew update
 $ brew tap homebrew/cask-versions
 ```
 
-## Java 11 on MacOS
+## Java 11 ou 17 no MacOS
 ```
 $ brew tap AdoptOpenJDK/openjdk
 $ brew install --cask adoptopenjdk11
 ```
+
+```
+$ brew tap AdoptOpenJDK/openjdk
+$ brew install --cask adoptopenjdk17
+```
+
 - Verificar a instalação: 
 ```
 $ java —version

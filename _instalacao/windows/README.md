@@ -6,12 +6,12 @@
 
 ## Ferramentas que você deverá instalar no seu computador:
 
-- JDK 11
+- JDK 11 ou 17
 - STS
 - Postman
 - Postgresql 12 e pgAdmin
 - Heroku CLI
-- NPM
+- NodeJS 16.x (https://nodejs.org/en/download/)
 - VS Code
 - Git
 

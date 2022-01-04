@@ -8,13 +8,13 @@
 
 - Curl
 - Git
-- Java JDK 11
+- Java JDK 11 ou 17
 - Maven
 - STS
 - Postman
 - Postgresql e pgAdmin
 - Heroku CLI
-- Node & NPM
+- NodeJS 16.x (https://nodejs.org/en/download/)
 - VS Code
 
 ## Playlist mostrando a instalação:
@@ -44,11 +44,15 @@ sudo apt-get install -y git
 git
 ```
 
-## Java JDK 11
+## Java JDK 11 ou 17
 
 - Instalar Java: 
 ```
 sudo apt install openjdk-11-jdk
+```
+
+```
+sudo apt install openjdk-17-jdk
 ```
 
 - Verificar a instalação: 
@@ -125,12 +129,12 @@ https://www.pgadmin.org/download/pgadmin-4-apt/
 https://devcenter.heroku.com/articles/heroku-cli
 ```
 
-## Node & NPM
+## Node 16
 
 ```
 sudo apt update
 
-curl -sL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
+curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -
 
 sudo apt-get install nodejs
 ```
