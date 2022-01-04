@@ -9,15 +9,15 @@
 
 ### AVISO: As aulas ficarão disponíveis somente até domingo às 23h59
 
-### AVISO: Instruções sobre certificado [aqui](https://github.com/devsuperior/sds6/tree/main/_certificado)
+### AVISO: Instruções sobre certificado [aqui](https://github.com/devsuperior/sds-dsmovie/tree/main/_certificado)
 
 ## Página de inscrição do evento
 - [Página de inscrição - Semana Spring React](https://devsuperior.com.br/sds-inscricao-org)
 
 ## Guias de instalação das ferramentas
-- [Guia de instalação das ferramentas no Windows](https://github.com/devsuperior/sds6/tree/main/_instalacao/windows)
-- [Guia de instalação das ferramentas no Linux](https://github.com/devsuperior/sds6/tree/main/_instalacao/linux)
-- [Guia de instalação das ferramentas no Mac](https://github.com/devsuperior/sds6/tree/main/_instalacao/mac)
+- [Guia de instalação das ferramentas no Windows](https://github.com/devsuperior/sds-dsmovie/tree/main/_instalacao/windows)
+- [Guia de instalação das ferramentas no Linux](https://github.com/devsuperior/sds-dsmovie/tree/main/_instalacao/linux)
+- [Guia de instalação das ferramentas no Mac](https://github.com/devsuperior/sds-dsmovie/tree/main/_instalacao/mac)
 
 ## Discord do evento para dúvidas e networking
 - [Discord da Semana Spring React](https://discord.gg/WQWeA86KuK)
