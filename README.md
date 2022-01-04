@@ -20,7 +20,7 @@
 - [Guia de instalação das ferramentas no Mac](https://github.com/devsuperior/sds-dsmovie/tree/main/_instalacao/mac)
 
 ## Discord do evento para dúvidas e networking
-- [Discord da Semana Spring React](https://discord.gg/WQWeA86KuK)
+- [Discord da Semana Spring React](https://discord.gg/NaJ6K2fWKp)
 
 
 ## Conteúdos de preparação
