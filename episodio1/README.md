@@ -34,8 +34,11 @@ yarn -v
 #### Design Figma
 
 https://www.figma.com/file/hpQuzpGHq2MmrI87xnfMoT/DSMovie1
+
 https://www.figma.com/file/svCMhNqgpAZuN86w9IHJ4v/DSMovie2
+
 https://www.figma.com/file/gEZYKqJJs2gEhIB6k9ksGB/DSMovie3
+
 https://www.figma.com/file/hyovBMIxwrn2Bb5MZLrxHL/DSMovie4
 
 
