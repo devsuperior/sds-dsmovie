@@ -300,6 +300,40 @@ const movie = {
     display: flex;
     justify-content: center;
 }
+
+.dsmovie-movie-card-image {
+    width: 100%;
+    border-radius: 8px 8px 0 0;
+}
+
+.dsmovie-card-bottom-container {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 10px 20px 10px;
+    border-radius: 0 0 8px 8px;
+}
+
+.dsmovie-card-bottom-container h3 {
+    color: #4A4A4A;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    min-height: 40px;
+}
+
+.dsmovie-btn {
+    background-color: var(--color-primary);
+    font-size: 14px;
+    font-weight: 700;
+    height: 40px;
+    width: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 ```
 
 - **COMMIT: Form layout**
@@ -447,42 +481,6 @@ const movie = {
         <div className="btn btn-primary dsmovie-btn">Avaliar</div>
     </div>
 </div>
-```
-
-```css
-.dsmovie-movie-card-image {
-    width: 100%;
-    border-radius: 8px 8px 0 0;
-}
-
-.dsmovie-card-bottom-container {
-    background-color: #fff;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 10px 10px 20px 10px;
-    border-radius: 0 0 8px 8px;
-}
-
-.dsmovie-card-bottom-container h3 {
-    color: #4A4A4A;
-    text-align: center;
-    font-size: 14px;
-    font-weight: 700;
-    margin-bottom: 10px;
-    min-height: 40px;
-}
-
-.dsmovie-btn {
-    background-color: var(--color-primary);
-    font-size: 14px;
-    font-weight: 700;
-    height: 40px;
-    width: 180px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
 ```
 
 - **COMMIT: MovieCard**
