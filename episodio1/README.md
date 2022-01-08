@@ -492,26 +492,6 @@ const movie = {
 - **COMMIT: Navigation buttons**
 
 
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
 ## PARABÉNS!
 
 ![Parabéns!](https://raw.githubusercontent.com/devsuperior/bds-assets/main/img/trophy.png)
@@ -521,5 +501,5 @@ const movie = {
   - Você está conseguindo acompanhar?
   - O que você está achando do evento?
 - Participe
-  - Comente na página da Semana Spring React
+  - Comente no Instagram e marque a gente @devsuperior.ig
   - Divulgue seu projeto no Linkedin e marque a DevSuperior
