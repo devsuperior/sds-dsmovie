@@ -216,6 +216,11 @@ git subtree push --prefix backend heroku main
   - Build command: yarn build
   - Publish directory: frontend/build
 
+- Arquivo _redirects
+```
+/* /index.html 200
+```
+
 - Configurações adicionais
   - Site settings -> Domain Management: (colocar o nome que você quiser)
   - Deploys -> Trigger deploy
