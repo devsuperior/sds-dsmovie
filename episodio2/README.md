@@ -62,7 +62,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 
 #### application.properties
 ```
-spring.profiles.active=${APP_PROFILE:test}
+spring.profiles.active=test
 
 spring.jpa.open-in-view=false
 ```
