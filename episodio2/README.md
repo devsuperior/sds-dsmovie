@@ -194,7 +194,7 @@ java.runtime.version=17
 
 - **COMMIT: First homolog**
 
-### Passo 6: Implantação no Heroku
+### Passo: Implantação no Heroku
 - Criar app no Heroku
 - Provisionar banco Postgres
 - Definir variável APP_PROFILE=prod
@@ -208,6 +208,43 @@ heroku git:remote -a <nome-do-app>
 git remote -v
 git subtree push --prefix backend heroku main
 ```
+
+
+### Passo: implantação no Netlify
+- Deploy básico
+  - Base directory: frontend
+  - Build command: yarn build
+  - Publish directory: frontend/build
+
+- Configurações adicionais
+  - Site settings -> Domain Management: (colocar o nome que você quiser)
+  - Deploys -> Trigger deploy
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+
+
+
 
 - **PARABÉNS!**
 
