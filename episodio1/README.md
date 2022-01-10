@@ -48,9 +48,12 @@ https://www.figma.com/file/hyovBMIxwrn2Bb5MZLrxHL/DSMovie4
 
 ![DevSuperior no Instagram](https://raw.githubusercontent.com/devsuperior/bds-assets/main/sds/pastas-dsmovie.png)
 
-
 ```
 yarn create react-app frontend --template typescript
+```
+OU:
+```
+npx create-react-app frontend --template typescript
 ```
 
 IMPORTANTE: deletar subpasta .git
