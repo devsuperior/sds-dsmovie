@@ -31,6 +31,12 @@ node -v
 yarn -v
 ```
 
+Caso precise instalar o Yarn, faça o comando:
+
+```
+npm install --global yarn
+```
+
 #### Design Figma
 
 https://www.figma.com/file/hpQuzpGHq2MmrI87xnfMoT/DSMovie1
