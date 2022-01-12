@@ -225,33 +225,8 @@ git subtree push --prefix backend heroku main
   - Site settings -> Domain Management: (colocar o nome que você quiser)
   - Deploys -> Trigger deploy
 
-.
 
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-
-
-
-
-- **PARABÉNS!**
+## PARABÉNS!
 
 ![Parabéns!](https://raw.githubusercontent.com/devsuperior/bds-assets/main/img/trophy.png)
 
