@@ -133,6 +133,16 @@ const handlePageChange = (newNumber: number) => {
 
 ### Passo: Salvando score, useNavigate
 
+# ATENÇÃO: Coloque o [movieId] nas dependências o useEffect do FormCard:
+```js
+useEffect(() => {
+    axios.get(`${BASE_URL}/movies/${movieId}`)
+        .then(response => {
+            setMovie(response.data);
+        });
+}, [movieId]);
+```
+
 Função para validar email
 
 ```javascript
