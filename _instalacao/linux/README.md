@@ -64,22 +64,22 @@ java -version
   ```
   sudo update-alternatives --config java
   ```
-  - Copie o caminho do Java
   - Edite o arquivo .bashrc: 
   ```
   sudo gedit ~/.bashrc
   ```
-  - Copie o código abaixo no final do arquivo. Salve o arquivo.
+  - Copie o código abaixo no final do arquivo (observe a versão do seu JDK). Salve o arquivo.
+  ```
+  JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64
+  export JAVA_HOME
+  export PATH=$PATH:$JAVA_HOME
+  ```
   - Abra um novo terminal e teste: 
   ```
   echo $JAVA_HOME
   ```
 
-```
-JAVA_HOME=/usr/...
-export JAVA_HOME
-export PATH=$PATH:$JAVA_HOME
-```
+
 
 ## Maven
 
