@@ -88,27 +88,20 @@ IMPORTANTE: deletar subpasta .git
 
 ### Passo: salvar primeira versão no Github
 
-[Playlist de introdução e configuração do Git/Github](https://www.youtube.com/watch?v=KLG-jC1fh28&list=PLNuUvBZGBA8nDTr8QRMgoT_l3XNt_BbWj)
+Caso não tenha configurado ainda seu Github:
+
+[![Image](https://img.youtube.com/vi/_hZf1teRFNg/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/_hZf1teRFNg)
 
 ```bash
-git config --global user.name <seu nome>
-git config --global user.email <seu email>
-
 git init
 
 git add .
 
-git commit -m "Project created"
-
-git remote ...
-```
-
-```bash
-git status
-
-git remote -v
+git commit -m "Projeto criado"
 
 git branch -M main
+
+git remote add origin git@github.com:seuusuario/seurepositorio.git
 
 git push -u origin main
 ```

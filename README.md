@@ -1,4 +1,4 @@
-# ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React - treinamento gratuito
+# ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React - 7 a 13 de março
 >  *Crie um app completo para seu portfólio com as tecnologias mais demandadas do mercado*
 
 ## Realização
@@ -20,18 +20,18 @@
 - [Guia de instalação das ferramentas no Mac](https://github.com/devsuperior/sds-dsmovie/tree/main/_instalacao/mac)
 
 ## Discord do evento para dúvidas e networking
-- [Discord da Semana Spring React](https://discord.gg/NaJ6K2fWKp)
+- [Discord da Semana Spring React](https://discord.gg/MkCbPT9z2u)
 
 
 ## Conteúdos de preparação
 
-### 1) Super revisão de OO e SQL
+### 1) Git e Github para iniciantes
+
+[![Image](https://img.youtube.com/vi/_hZf1teRFNg/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/_hZf1teRFNg)
+
+### 2) Super revisão de OO e SQL
 
 [![Image](https://img.youtube.com/vi/xC_yKw3MYX4/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/xC_yKw3MYX4)
-
-### 2) Git e Github para iniciantes
-
-[![Image](https://img.youtube.com/vi/KLG-jC1fh28/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/KLG-jC1fh28)
 
 ### 3) Seu primeiro projeto Java web no Spring Boot
 
@@ -44,5 +44,3 @@
 ### 5) ReactJS primeiros passos - Introdução Prática
 
 [![Image](https://img.youtube.com/vi/IOJoJGDowEY/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/IOJoJGDowEY)
-
-
