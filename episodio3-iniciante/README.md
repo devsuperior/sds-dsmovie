@@ -1,4 +1,4 @@
-# ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React - Episódio 2
+# ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React - Episódio 3
 >  *Crie um app completo para seu portfólio com as tecnologias mais demandadas do mercado*
 
 ## TRILHA PARA INICIANTES
@@ -10,9 +10,7 @@
 [![DevSuperior no Youtube](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/yt-icon.png)](https://youtube.com/devsuperior)
 
 ## Objetivos do projeto para esta aula
-- Layout do formulário
-- Layout das avaliações com estrelas
-- Polimento na listagem
+- Implantação do site no Github Pages
 
 ## AVISO: as aulas ficarão disponíveis somente até domingo às 23h59
 
@@ -21,14 +19,19 @@
 
 ## Checklist
 
-### Passo: Formulário PARTE 1
+### Passo: Componente de paginação
 
-### Passo: Formulário PARTE 2
+Para mudar a cor de um SVG:
 
-### Passo: Avaliação com estrelas
+https://stackoverflow.com/questions/22252472/how-to-change-the-color-of-an-svg-element
 
-### Passo: Polimento da listagem
+Commit: Componente de paginação
 
+### Passo: Implantação no Github Actions
+
+- Acessar o projeto no Github
+- Settings -> Pages
+- Selecione o branch "main" (Save)
 
 ## PARABÉNS!
 
