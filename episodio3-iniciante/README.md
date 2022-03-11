@@ -27,7 +27,7 @@ https://stackoverflow.com/questions/22252472/how-to-change-the-color-of-an-svg-e
 
 Commit: Componente de paginação
 
-### Passo: Implantação no Github Actions
+### Passo: Implantação no Github Pages
 
 - Acessar o projeto no Github
 - Settings -> Pages
