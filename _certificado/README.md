@@ -22,7 +22,7 @@ https://learn.devsuperior.com
 
 - Seu projeto no Github precisa ter pelo menos 50% de equivalência dos commits das aulas, commits estes registrados no seu usuário. Isso é para podermos atestar que você fez o projeto gradualmente junto com a gente. Projetos com menos de 50% de equivalência dos commits não serão aceitos.
 
-- Seu projeto precisa estar COMPLETO e funcionando no Netlify (note que os 50% mencionados acima referem-se apenas aos commits do Git, mas o projeto precisa estar completo).
+- Seu projeto precisa estar COMPLETO e funcionando (note que os 50% mencionados acima referem-se apenas aos commits do Git, mas o projeto precisa estar completo).
 
 ## 5) Na plataforma, envie os links do projeto antes do final do evento
 
@@ -30,5 +30,4 @@ https://learn.devsuperior.com
 
 ![Image](https://raw.githubusercontent.com/devsuperior/bds-assets/main/sds/sds6-form.png "Formulário de inscrição")
 
-## 6) Aguarde até 2 semanas após o evento e acesse seu certificado na plataforma
-
+## 6) Seu certificado estará disponível na plataforma dia 30/05/2022
